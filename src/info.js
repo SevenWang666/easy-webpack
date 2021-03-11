@@ -1,3 +1,3 @@
-export default {
-    info:'info'
+export default function info (){
+    return {log:'info' }
 }
