@@ -7,6 +7,7 @@
 3. @babel/core : babel 核心模块，提供 transformFromAst 方法，用于将 AST 转化为浏览器可运行的代码；
 4. @babel/preset-env : 将转换后代码转化成 ES5 代码；
 
+test
 
 主要分为四步
 1. 收集和处理文件中的代码;createAssets
